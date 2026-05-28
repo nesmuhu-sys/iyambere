@@ -1,0 +1,1 @@
+npm i mysql2 mongoose jsonwebtoken express express-session bcrypt cors dotenv nodemon

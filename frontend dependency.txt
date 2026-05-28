@@ -1,0 +1,1 @@
+npm i react axios redux react-router-dom react-icons lucide-icons
