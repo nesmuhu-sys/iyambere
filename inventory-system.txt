@@ -1,0 +1,32 @@
+inventory-system/
+│
+├── client/
+│   ├── src/
+│   │
+│   │── pages/
+│   │   ├── Auth.jsx
+│   │   ├── Dashboard.jsx
+│   │   ├── Products.jsx
+│   │   ├── Customers.jsx
+│   │   ├── Orders.jsx
+│   │   ├── Payments.jsx
+│   │   ├── Reports.jsx
+│   │
+│   │── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Sidebar.jsx
+│   │   ├── Table.jsx
+│   │   ├── Form.jsx
+│   │
+│   │── App.jsx
+│   │── main.jsx
+│   │
+│   └── package.json
+│
+├── server/
+│   ├── server.js
+│   ├── .env
+│   └── package.json
+│
+├── README.md
+└── .gitignore
